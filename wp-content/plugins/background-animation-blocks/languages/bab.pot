@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Background animation blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-18 09:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: bab"
+
+#: background-animation-blocks.php:292
+msgid "Angle"
+msgstr ""
+
+#: background-animation-blocks.php:315
+msgid "Animation speed"
+msgstr ""
+
+#. Name of the plugin
+#: background-animation-blocks.php:138 background-animation-blocks.php:151
+msgid "Background animation blocks"
+msgstr ""
+
+#: background-animation-blocks.php:160
+msgid "Background style"
+msgstr ""
+
+#: background-animation-blocks.php:166
+msgid "Blurred circles"
+msgstr ""
+
+#: background-animation-blocks.php:415
+msgid "Bubble count"
+msgstr ""
+
+#: background-animation-blocks.php:437
+msgid "Bubble speed"
+msgstr ""
+
+#: background-animation-blocks.php:167
+msgid "Bubbles"
+msgstr ""
+
+#: background-animation-blocks.php:405 background-animation-blocks.php:461
+msgid "Bubbles color"
+msgstr ""
+
+#: background-animation-blocks.php:165
+msgid "Diagonal lines"
+msgstr ""
+
+#: background-animation-blocks.php:239 background-animation-blocks.php:339
+#: background-animation-blocks.php:363 background-animation-blocks.php:507
+msgid "First color"
+msgstr ""
+
+#: background-animation-blocks.php:170
+msgid "Floating squares"
+msgstr ""
+
+#: background-animation-blocks.php:393 background-animation-blocks.php:537
+msgid "Fourth color"
+msgstr ""
+
+#: background-animation-blocks.php:168
+msgid "Gooey effect"
+msgstr ""
+
+#: background-animation-blocks.php:164
+msgid "Gradient"
+msgstr ""
+
+#: background-animation-blocks.php:471
+msgid "Height"
+msgstr ""
+
+#: background-animation-blocks.php:249 background-animation-blocks.php:276
+msgid "Location"
+msgstr ""
+
+#: background-animation-blocks.php:162
+msgid "None"
+msgstr ""
+
+#: background-animation-blocks.php:169
+msgid "Parallax pixel"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Powerful Gutenberg & Elementor animated blocks, that makes your website "
+"awesome!"
+msgstr ""
+
+#: background-animation-blocks.php:265 background-animation-blocks.php:350
+#: background-animation-blocks.php:373 background-animation-blocks.php:517
+msgid "Second color"
+msgstr ""
+
+#: background-animation-blocks.php:495
+msgid "Squares color"
+msgstr ""
+
+#: background-animation-blocks.php:227
+msgid "Star color"
+msgstr ""
+
+#: background-animation-blocks.php:205
+msgid "Star min scale"
+msgstr ""
+
+#: background-animation-blocks.php:183
+msgid "Star size"
+msgstr ""
+
+#: background-animation-blocks.php:163
+msgid "Stars"
+msgstr ""
+
+#: background-animation-blocks.php:383 background-animation-blocks.php:527
+msgid "Third color"
+msgstr ""
+
+#: background-animation-blocks.php:171
+msgid "Waves"
+msgstr ""
+
+#. Author of the plugin
+msgid "WebArea"
+msgstr ""
